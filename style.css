@@ -1,0 +1,47 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+background-image: url(img/HD-wallpaper-sapphires-stone-black-precious-jewel-sapphire-blue.jpg);
+color: #ffffff;
+margin: 15px;
+width: 98%;
+
+}
+
+caption{
+    margin: 25px;
+}
+
+
+table{
+    background-color: #0a1788 ;
+    margin: 15px;
+    width: 98%;
+    border-style: 5 ;
+    color: #ffffff;
+    text-align :center;
+}
+
+article{
+    background-image: url(img/HD-wallpaper-sapphires-stone-black-precious-jewel-sapphire-blue.jpg);
+    background-color: #0a1788 ;
+}
+
+footer{
+    margin: 50px;
+}
+
+section{
+    margin: 25px;
+    width: 110%;
+}
+
+marquee{
+    margin: 15px;
+    width: 98%;
+    border-style: 5 ;
+}
